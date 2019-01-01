@@ -1,5 +1,6 @@
 import random
 def ghostgame(room, ghost, c):
+    '''body of the game, conditional for rooms'''
     i = 0
     count = 0
     while (True):
